@@ -1,0 +1,9 @@
+C:\Users\bobby\source\repos\TwoRivers.Library\TwoRivers.Library\obj\Debug\netstandard2.0\TwoRivers.Library.csprojAssemblyReference.cache
+C:\Users\bobby\source\repos\TwoRivers.Library\TwoRivers.Library\obj\Debug\netstandard2.0\TwoRivers.Library.AssemblyInfoInputs.cache
+C:\Users\bobby\source\repos\TwoRivers.Library\TwoRivers.Library\obj\Debug\netstandard2.0\TwoRivers.Library.AssemblyInfo.cs
+C:\Users\bobby\source\repos\TwoRivers.Library\TwoRivers.Library\obj\Debug\netstandard2.0\TwoRivers.Library.csproj.CoreCompileInputs.cache
+C:\Users\bobby\source\repos\TwoRivers.Library\TwoRivers.Library\bin\Debug\netstandard2.0\TwoRivers.Library.deps.json
+C:\Users\bobby\source\repos\TwoRivers.Library\TwoRivers.Library\bin\Debug\netstandard2.0\TwoRivers.Library.dll
+C:\Users\bobby\source\repos\TwoRivers.Library\TwoRivers.Library\bin\Debug\netstandard2.0\TwoRivers.Library.pdb
+C:\Users\bobby\source\repos\TwoRivers.Library\TwoRivers.Library\obj\Debug\netstandard2.0\TwoRivers.Library.dll
+C:\Users\bobby\source\repos\TwoRivers.Library\TwoRivers.Library\obj\Debug\netstandard2.0\TwoRivers.Library.pdb

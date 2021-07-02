@@ -1,0 +1,31 @@
+﻿@page
+@model CleanRazorUI.Pages.Forms.AddAddressModel
+@{
+}
+<h1>Add Address</h1>
+<form method="post">
+    <div class="container py-3">
+        <div class="row">
+            <div class="col-sm-6 mx-auto">
+                <div class="input-group flex-nowrap">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">
+                            <i class="fa fa-house"></i>
+                        </span>
+                    </div>
+                    <div class="d-flex flex-column border rounded-right flex-grow-1">
+                        <input type="text" class="form-control border-top-0 border-left-0 border-right-0 border-bottom" asp-for="address.Name" placeholder="Property Nickname" />
+                        <input type="text" class="form-control border-0" asp-for="address.Type" placeholder="Type" />
+                        <input type="text" class="form-control border-0" asp-for="address.Street" placeholder="Street" />
+                        <input type="text" class="form-control border-0" asp-for="address.City" placeholder="City" />
+                        <input type="text" class="form-control border-0" asp-for="address.State" placeholder="State" />
+                        <input type="text" class="form-control border-0" asp-for="address.Zipcode" placeholder="Zipcode" />
+                        <input type="text" class="form-control border-0" asp-for="address.Notes" placeholder="Notes" />
+                        <input type="text" class="form-control border-0" asp-for="address.ClientId" placeholder="Client" />
+                    </div>
+                </div>
+                </div>
+            </div>
+        <!--/row-->
+    </div>
+</form>
